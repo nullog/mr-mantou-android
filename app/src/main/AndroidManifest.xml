@@ -41,11 +41,11 @@
 
         <meta-data
             android:name="UMENG_APPKEY"
-            android:value="56d00aa3e0f55a30940030e7" />
+            android:value="5745746067e58e6f13001cd1" />
 
         <meta-data
             android:name="BUG_HD_SDK_GENERAL_KEY"
-            android:value="5b82d31950698639c4a69bd46250cbc2" />
+            android:value="817e133ca44683003a061ef2ddcd530b"/>
 
         <meta-data
             android:name="ooo.oxo.mr.net.AVFileGlideModule"
